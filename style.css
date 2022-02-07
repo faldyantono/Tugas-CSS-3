@@ -1,0 +1,16 @@
+  p {
+    border-style: ridge;
+  }
+  .p1{
+  background-color: orange;
+  }
+  .p2 {
+  background-color: blue;
+    }
+  .p3 {
+  border-style: groove;
+}
+  .p4 {
+    font-weight: bold;
+    background-color: grey;
+  }
