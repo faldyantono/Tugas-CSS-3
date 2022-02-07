@@ -6,11 +6,14 @@
   }
   .p2 {
   background-color: blue;
+  color: white;
     }
   .p3 {
   border-style: groove;
+  font-size: 200%;
 }
   .p4 {
     font-weight: bold;
     background-color: grey;
+    font-size: 200%;
   }
